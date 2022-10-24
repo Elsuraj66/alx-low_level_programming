@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * _puts - Prints a string to stdout.
+ * putchar - Prints a string to stdout.
  * @str: The string to be printed.
  */
 void _puts(char *str)
