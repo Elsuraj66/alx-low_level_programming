@@ -1,4 +1,3 @@
-387 Bytes
 #include <stdio.h>
 /**
  * main - entry point
